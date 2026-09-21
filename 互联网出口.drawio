@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cd0q4NN7vddUIvhy3aY--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
+        <mxCell id="cd0q4NN7vddUIvhy3aY--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" value="" vertex="1">
           <mxGeometry height="640" width="680" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="3JmPGhPMpMJNMOkwhnbQ-1" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.controllers_and_modules.10ge_fcoe;" value="" vertex="1">
